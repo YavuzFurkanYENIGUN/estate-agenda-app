@@ -1,7 +1,7 @@
 {
   "name": "estate-agent-agenda",
   "description": "estate-agent-agenda",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": "16.11.1"
   },
